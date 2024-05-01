@@ -10,7 +10,7 @@ const Footer = (props) => {
     }
     return (
         <div style={getFooterStyle()}>
-            &copy; Gaurav Walia 2020
+            @satish chandra 2024
         </div>
     )
 ;}
